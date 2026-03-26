@@ -1,0 +1,12 @@
+{
+  "name": "example-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js app for k3s pipeline testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
